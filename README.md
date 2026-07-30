@@ -26,11 +26,12 @@ Download the latest signed APK from the [Releases](https://github.com/mr-Colab/H
 | Feature graphic (1024×500) | `handyflix-pro-feature-graphic-1024x500.png` |
 | Screenshots APKPure-ready (1080×1920) | `screenshots/processed/` |
 
-Processed screenshots (upload these to APKPure):
+Processed screenshots (upload these to APKPure, in order):
 1. `01-home-apkpure.png` — Home
-2. `02-discover-apkpure.png` — Discover / Search
-3. `03-downloads-apkpure.png` — Offline downloads
-4. `04-library-apkpure.png` — My List / Library
+2. `02-details-apkpure.png` — Movie / series details
+3. `03-discover-apkpure.png` — Discover / Search
+4. `04-downloads-apkpure.png` — Offline downloads
+5. `05-library-apkpure.png` — My List / Library
 
 Original phone captures are kept in `screenshots/raw/`.
 
