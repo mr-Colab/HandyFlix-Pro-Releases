@@ -23,6 +23,7 @@ Download the latest signed APK from the [Releases](https://github.com/mr-Colab/H
 
 | Asset | Path |
 |-------|------|
+| App icon (512×512 PNG) | `handyflix-pro-icon-512.png` |
 | Feature graphic (1024×500) | `handyflix-pro-feature-graphic-1024x500.png` |
 | Screenshots APKPure-ready (1080×1920) | `screenshots/processed/` |
 
